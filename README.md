@@ -10,6 +10,13 @@
 
 </div>
 
+<div align="center">
+  <a href="https://github.com/ViniciusSilva18/api-auth-jwt">
+    <img src="https://komarev.com/ghpvc/?username=ViniciusSilva18-api-auth-jwt&label=Visualiza%C3%A7%C3%B5es&color=06b6d4&style=flat" alt="Views" />
+  </a>
+</div>
+
+
 ## ✨ Funcionalidades
 - 🔑 JWT com Access Token (15min) + Refresh Token (7d)
 - 🔒 Hashing bcrypt com salt 12
